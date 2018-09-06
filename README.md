@@ -1,4 +1,4 @@
-# Car-Plate-Recognition-System
+# Car Plate Recognition System
 
 This project aims to develop an intelligent system capable of recognizing alphanumeric symbols of automotive plates from scanned vehicle images, by segmenting the contours of the characters found, extracting descriptors and using the KNN for character recognition and categorization.
 
