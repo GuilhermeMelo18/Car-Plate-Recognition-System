@@ -1,8 +1,8 @@
 # Categorizador-de-Caracteres-em-Placas
 
-Este projeto visa desenvolver um sistema inteligente capaz de reconhecer símbolos alfanuméricos de placas automotivas a partir de imagens digitalizadas de veículos, através principalmente da segmentação por meio dos contornos dos caracteres encontrados, a extração de descritores e a utilização do KNN para reconhecimento e categorização dos caracteres.
+This project aims to develop an intelligent system capable of recognizing alphanumeric symbols of automotive plates from scanned vehicle images, by segmenting the contours of the characters found, extracting descriptors and using the KNN for character recognition and categorization.
 
-## Pré-requisitos
+## Prerequisites
 
 * [Python - 3.6.4](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe)
 * [OpenCv - 3.4](https://opencv.org/)
@@ -10,22 +10,22 @@ Este projeto visa desenvolver um sistema inteligente capaz de reconhecer símbol
 ## Getting Started
 
 
-### Instalação
+### Installing
 
-* Instalar - Python
-* Clonar Projeto 
-* Criar um novo projeto Python 
-* Colocar os Arquivos do Projeto na pasta do novo projeto  
-* Intalar pacotes em ..\PycharmProjects\novo\venv\Scripts>
+* Install - Python
+* Clone the Project 
+* Create a new python project  
+* Put the Project Files in the new project folder  
+* Install libs in ..\PycharmProjects\novo\venv\Scripts>
 ```
 pip install opencv-python
 pip  install matplotlib 
 ```
-* Rodar o arquivo Python CategorizadorPlacas.py
+* Run the python file CategorizadorPlacas.py
 
-### Artigo do Projeto
+### Project Article 
 
-* Artigo (https://drive.google.com/open?id=1gyX3MgofMHaSUXj_oHW5Mza-xpj4-p3V)
+* Article (https://drive.google.com/open?id=1gyX3MgofMHaSUXj_oHW5Mza-xpj4-p3V)
 
 ## License
 
