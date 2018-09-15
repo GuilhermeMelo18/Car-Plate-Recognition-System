@@ -1,6 +1,9 @@
 # Car Plate Recognition System
 
-This project aims to develop an intelligent system capable of recognizing alphanumeric symbols of automotive plates from scanned vehicle images, by segmenting the contours of the characters found, extracting descriptors and using the KNN for character recognition and categorization.
+This project aims to develop an intelligent system capable of recognizing alphanumeric symbols of automotive plates from scanned vehicle images, by segmenting the contours of the characters found, extracting descriptors with Unidimensional Vector of the pixels and 
+ORB (Oriented FAST and Rotated BRIEF) method in the character image. As also using the KNN for character recognition and categorization.
+
+<img src="https://image.ibb.co/iuw5sK/plate.png" alt="combate3" border="0" style="text-align:center;">
 
 ## Prerequisites
 
