@@ -7,8 +7,8 @@ ORB (Oriented FAST and Rotated BRIEF) method in the character image. As also usi
 
 ## Prerequisites
 
-* [Python - 3.6.4](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe)
-* [OpenCv - 3.4](https://opencv.org/)
+* [Python - 3.6.+](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe)
+* [OpenCv - 3.4.+](https://opencv.org/)
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ ORB (Oriented FAST and Rotated BRIEF) method in the character image. As also usi
 * Clone the Project 
 * Create a new python project  
 * Put the Project Files in the new project folder  
-* Install libs in ..\PycharmProjects\novo\venv\Scripts>
+* Install libs in ..\PycharmProjects\newProject\venv\Scripts>
 ```
 pip install opencv-python
 pip  install matplotlib 
