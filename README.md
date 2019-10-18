@@ -7,8 +7,8 @@ ORB (Oriented FAST and Rotated BRIEF) method in the character image. As also usi
 
 ## Prerequisites
 
-* [Python - 3.6.+](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe)
-* [OpenCv - 3.4.+](https://opencv.org/)
+* [Python](https://www.python.org/downloads/)
+* [OpenCv](https://opencv.org/)
 
 ## Getting Started
 
