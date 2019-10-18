@@ -19,7 +19,7 @@ ORB (Oriented FAST and Rotated BRIEF) method in the character image. As also usi
 * Clone the Project 
 * Create a new python project  
 * Put the Project Files in the new project folder  
-* Install libs in ..\PycharmProjects\newProject\venv\Scripts>
+* Install libs in ..\newProject\venv\Scripts>
 ```
 pip install opencv-python
 pip  install matplotlib 
